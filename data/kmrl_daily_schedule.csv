@@ -1,0 +1,25 @@
+    Trainset,Schedule_Type,Start_Time,Priority_Score,Expected_Trips,Route_Assignment,AI Reasoning,Warnings
+ARUTH,Primary Service,06:00,14.088847881412889,10,ALVA-TPHT Bidirectional,"High priority (Score: 14.1), all systems operational",None
+GANGA,Primary Service,07:00,14.050919331121543,11,ALVA-TPHT Bidirectional,"High priority (Score: 14.1), all systems operational",Cleaning pending
+NILA,Primary Service,08:00,13.980326846829948,12,ALVA-TPHT Bidirectional,"High priority (Score: 14.0), all systems operational",None
+SABARMATHI,Primary Service,09:00,13.669573333434917,12,ALVA-TPHT Bidirectional,"High priority (Score: 13.7), all systems operational",None
+KABANI,Primary Service,06:00,13.625248950546506,14,ALVA-TPHT Bidirectional,"High priority (Score: 13.6), all systems operational",None
+KRISHNA,Primary Service,07:00,13.571995961498514,14,ALVA-TPHT Bidirectional,"High priority (Score: 13.6), all systems operational",None
+PAMPA,Primary Service,08:00,13.34825908454652,12,ALVA-TPHT Bidirectional,"High priority (Score: 13.3), all systems operational",None
+MAHE,Primary Service,09:00,13.332446605301387,11,ALVA-TPHT Bidirectional,"High priority (Score: 13.3), all systems operational",Cleaning pending
+BHAVANI,Primary Service,06:00,13.147299319590209,12,ALVA-TPHT Bidirectional,"High priority (Score: 13.1), all systems operational",Cleaning pending
+PAVAN,Primary Service,07:00,12.719520463474037,12,ALVA-TPHT Bidirectional,"High priority (Score: 12.7), all systems operational",None
+DHWANIL,Primary Service,08:00,12.614109286263655,14,ALVA-TPHT Bidirectional,"High priority (Score: 12.6), all systems operational",None
+VAIGAI,Primary Service,09:00,12.561635986324982,12,ALVA-TPHT Bidirectional,"High priority (Score: 12.6), all systems operational",Cleaning pending
+SARAYU,Primary Service,06:00,12.375667971692542,11,ALVA-TPHT Bidirectional,"High priority (Score: 12.4), all systems operational",Open job card; Rolling stock cert expired
+PADMA,Primary Service,07:00,12.316054168157594,14,ALVA-TPHT Bidirectional,"High priority (Score: 12.3), all systems operational",None
+JHANAVI,Primary Service,08:00,12.115454994988221,11,ALVA-TPHT Bidirectional,"High priority (Score: 12.1), all systems operational",Open job card
+VAAYU,Primary Service,09:00,12.07963709277835,10,ALVA-TPHT Bidirectional,"High priority (Score: 12.1), all systems operational",Open job card
+SHIRIYA,Standby/Relief,On-Call,12.036316572696183,0,Available for service disruptions,Standby ready (Score: 12.0),Open job card; Telecom cert expired
+KAVERI,Standby/Relief,On-Call,11.7997713412803,0,Available for service disruptions,Standby ready (Score: 11.8),Open job card
+MANDAKINI,Standby/Relief,On-Call,11.55539055676155,0,Available for service disruptions,Standby ready (Score: 11.6),Signal cert expired
+YAMUNA,Standby/Relief,On-Call,11.543567869551689,0,Available for service disruptions,Standby ready (Score: 11.5),Signal cert expired
+GODHAVARI,Standby/Relief,On-Call,11.518457671230562,0,Available for service disruptions,Standby ready (Score: 11.5),Telecom cert expired
+NARMADA,Standby/Relief,On-Call,11.422150304106983,0,Available for service disruptions,Standby ready (Score: 11.4),Open job card
+TAPTI,Standby/Relief,On-Call,10.961948378578581,0,Available for service disruptions,Standby ready (Score: 11.0),Open job card
+MAARUT,Standby/Relief,On-Call,10.74090553336788,0,Available for service disruptions,Standby ready (Score: 10.7),Rolling stock cert expired
